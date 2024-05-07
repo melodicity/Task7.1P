@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task 7.1P</string>
+    <string name="lost_and_found"><![CDATA[Lost\n&\nFound]]></string>
+    <string name="show_all_lost_amp_found_items"><![CDATA[Show all lost & found items]]></string>
+    <string name="create_a_new_advert">Create a new advert</string>
+    <string name="lost_amp_found_items"><![CDATA[Lost & Found Items]]></string>
+    <string name="lost_key">Lost key ...</string>
+</resources>
